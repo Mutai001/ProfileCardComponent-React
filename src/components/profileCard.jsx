@@ -10,6 +10,6 @@ const ProfileCard = ({ name, age, profilePicture, bio }) => {
       <p className="profile-bio">{bio}</p>
     </div>
   );
-};
+}; 
 
 export default ProfileCard;
