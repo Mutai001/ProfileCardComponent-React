@@ -13,7 +13,7 @@ function App() {
       <ProfileCard 
         name="Cyrus Kimutai"
         age={23}
-        profilePicture="https://avatars.githubusercontent.com/u/77490521?v=4"
+        profilePicture="https://avatars.githubusercontent.com/u/77490521?v=4"  //https://avatars.githubusercontent.com/u/77490521?v=4
         bio="I am a software developer"
       />
       <ProfileCard 
